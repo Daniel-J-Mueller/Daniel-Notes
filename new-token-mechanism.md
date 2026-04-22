@@ -1,0 +1,3 @@
+As opposed to generating tokens and placing them at the end, allow a speculative output where tokens can be placed at any location within an output window. The output window should be fixed.
+
+This enables edits and recursive thinking during output generation, which can now be tuned to continue for as long as is reasonable or necessary, or set to observe a variable set by the user or organization providing the model.
