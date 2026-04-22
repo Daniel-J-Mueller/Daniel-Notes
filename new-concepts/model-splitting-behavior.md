@@ -3,4 +3,4 @@ To facilitate this model-offloading general-observation, one can split the model
 Then thinking can be split and independently output, then merged by a model after the fact.
 
 The packets of information can be compressed into a label and the beginning and end parts of speech/wording so that the flow of the
-sentence remains the same.
+sentence remains the same, and it fits within the context of the final assembler.
