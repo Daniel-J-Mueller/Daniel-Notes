@@ -1,1 +1,1 @@
-Do not recursively measure and alter the brain.
+Do not automatically measure and alter the brain.
